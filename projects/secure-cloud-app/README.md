@@ -9,12 +9,16 @@ Built a secure containerized Flask application with GitHub Actions CI/CD automat
 - Logging enabled
 - Security headers
 - Health check endpoint
+- Automated vulnerability scanning
+- CI/CD security pipeline
 
 ## Technologies
 - Python
 - Flask
 - Docker
 - GitHub Actions
+- Redis
+- Trivy
 
 ## Skills Demonstrated
 - CI/CD automation
