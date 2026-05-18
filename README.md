@@ -30,6 +30,10 @@ Simulated a credential compromise attack and performed detection, containment, a
 
 Secured IAM environment using least privilege, MFA, and permission boundaries.
 
+# Secure Cloud App
+
+A beginner cloud security and DevSecOps project built using Docker, Terraform concepts, Flask, Redis, Trivy, and GitHub Actions CI/CD security scanning.
+
 ---
 
 ## 🧠 What I Focus On
